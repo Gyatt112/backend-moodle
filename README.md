@@ -1,1 +1,1 @@
-# backend-moodle
+# backend-moodle это учебный Backend-курс и код будет добавляться по модулям.
